@@ -43,15 +43,13 @@ I'm a passionate *Back-End Developer* specialized in *.NET technologies*, with a
 - Git & GitHub  
 - Postman  
 - Swagger  
-- Vercel (for future frontend deployment)  
-- Figma (UI idea collaboration)  
 
 ---
 
 ## 📫 How to Reach Me
 
 - 📧 *Email:* ahmeddehab454@gmail.com  
-- 💼 *LinkedIn:* [Ahmed Ihab Zaky](https://www.linkedin.com/in/ahmed-ihab-b618ba265)  
+- 💼 *LinkedIn:* [Ahmed Ihab](https://www.linkedin.com/in/ahmed-ihab-b618ba265)  
 - 💻 *GitHub:* [AhmedIhab454](https://github.com/AhmedIhab454)
 
 ---
